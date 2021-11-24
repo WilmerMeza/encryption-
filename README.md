@@ -28,14 +28,15 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 
 # INTRODUCCIÒN
-- Los estudiantes del Instituto Valle Grande - Lima - Perù ha realizado una investigaciòn donde explica la claisifaciòn de una clase de red neuronal artificial de retroalimentación llamada  Multilayer Perceptron( MLP) que es excelente para MNIST, con un conjunto de datos más simple y directo, con una visiòn por computadora, a través de imágenes y/o letras.
+- wdwdFALTAA
 
 
 - Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java EE, azure ML, Big ML, Google drive para el almacenamiento de nuestros archivos y documentos.
 
-
-![image](https://user-images.githubusercontent.com/55814963/122142465-2aa4a380-ce15-11eb-8938-fb9cc04550ab.png)
 ![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
+![image](http://www.vdv-project.fr/icn-palissy-tom/wp-content/uploads/2018/03/tableau_de_Vigen%C3%A8re.png)
+
+
 
 
 # HERRAMIENTAS DE TRABAJO
