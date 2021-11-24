@@ -33,9 +33,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 - Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java EE, azure ML, Big ML, Google drive para el almacenamiento de nuestros archivos y documentos.
 
-![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
 ![image](https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/FIG-VIG-Table.jpg)
-
 
 
 # HERRAMIENTAS DE TRABAJO
@@ -104,4 +102,6 @@ En este trabajo de investigaciòn, descubrió las redes neuronales artificiales 
 # MUCHAS GRACIAS...!
 
 ![image](https://user-images.githubusercontent.com/55814963/122269113-76e9f500-cea2-11eb-99ed-7bbf207f1491.png)
+
+![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
 
