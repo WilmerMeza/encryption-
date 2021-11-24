@@ -1,18 +1,18 @@
-# Encryption
+## Encryption
 Trabajando con el cifrado  de caracteres vigenere 
 
-# TRABAJO 04 - Aplicación Criptográfica
+## TRABAJO 04 - Aplicación Criptográfica
 ### TEMA: Vigenere
 
 # OBJETIVO:
 1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
-# INTEGRANTE:
+## INTEGRANTE:
 - Wilmer Meza
 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
-# AGRADECIMIENTO
+## AGRADECIMIENTO
 
 #### Prof. Giancarlo Valencia 
 
