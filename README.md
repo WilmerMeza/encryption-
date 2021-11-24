@@ -1,16 +1,15 @@
-# Encryption-
+# Encryption
 Trabajando con el cifrado  de caracteres vigenere 
 
-# TRABAJO 06 - Implementación de AI
-### TEMA: Multilayer-Perceptron
+# TRABAJO 04 - Aplicación Criptográfica
+### TEMA: Vigenere
 
-# OBJETIVO
-1. Implementación de las soluciones de Machine Learning mediante una aplicación Web y/o móvil con Java EE, Spring Boot, Angular, React, etc.
+# OBJETIVO:
+1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
-# EQUIPO
+# INTEGRANTE:
 (Julio Quispe - Wilmer Meza)
 
-![image](https://user-images.githubusercontent.com/55814963/122267311-59b42700-cea0-11eb-80a8-cf841571e81c.png) 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
 # AGRADECIMIENTO
