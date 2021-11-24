@@ -8,7 +8,7 @@ Trabajando con el cifrado  de caracteres vigenere
 1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
 # INTEGRANTE:
-(Julio Quispe - Wilmer Meza)
+- Wilmer Meza
 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
