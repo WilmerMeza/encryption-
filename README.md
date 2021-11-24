@@ -34,8 +34,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 - Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java EE, azure ML, Big ML, Google drive para el almacenamiento de nuestros archivos y documentos.
 
 ![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
-![image](http://www.vdv-project.fr/icn-palissy-tom/wp-content/uploads/2018/03/tableau_de_Vigen%C3%A8re.png)
-
+![image](https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/FIG-VIG-Table.jpg)
 
 
 
