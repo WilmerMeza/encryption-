@@ -36,10 +36,12 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 
 
+
+
 ![image](![image](https://user-images.githubusercontent.com/55814963/143780387-9a70b986-bdb2-40c5-ba06-1c602550c549.png)
-[image](![image](https://user-images.githubusercontent.com/55814963/143780395-0992eb38-f8cc-445a-bda7-b8edeb81521d.png)
-[image](![image](https://user-images.githubusercontent.com/55814963/143780401-08f7b6e9-5d6b-4840-8a7a-f583eafad447.png)
-[image](![image](https://user-images.githubusercontent.com/55814963/143780415-75afe334-2ea1-4a19-ade5-a6d99cd51490.png)
+![image](![image](https://user-images.githubusercontent.com/55814963/143780395-0992eb38-f8cc-445a-bda7-b8edeb81521d.png)
+![image](![image](https://user-images.githubusercontent.com/55814963/143780401-08f7b6e9-5d6b-4840-8a7a-f583eafad447.png)
+![image](![image](https://user-images.githubusercontent.com/55814963/143780415-75afe334-2ea1-4a19-ade5-a6d99cd51490.png)
 
 
 ### DESARROLLO
@@ -53,7 +55,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 
 
-##  OBJETIVO FINAL
+### OBJETIVO FINAL
 
 • Cifrar
 • Descifrar
@@ -61,7 +63,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 ![image](![image](https://user-images.githubusercontent.com/55814963/143780254-62ad3419-4a64-45aa-b5e4-e3ebe8519914.png)
 
 
-##  MUCHAS GRACIAS...!
+###  MUCHAS GRACIAS...!
 
 ![image](![image](https://user-images.githubusercontent.com/55814963/143780286-5687e90f-8acc-4f85-8de5-225715db9189.png)
 
