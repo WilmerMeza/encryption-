@@ -5,7 +5,7 @@ Trabajando con el cifrado  de caracteres vigenere
 #### TEMA: Vigenere
 
 ### OBJETIVO:
-1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
+Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
 ### INTEGRANTE:
 - Wilmer Meza
