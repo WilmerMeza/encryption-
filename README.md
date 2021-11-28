@@ -52,7 +52,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 
 
-![image](![image](https://user-images.githubusercontent.com/55814963/143780498-145a7657-eb44-4313-9ccd-9448d1d585e9.png)
+![image](https://user-images.githubusercontent.com/55814963/143780498-145a7657-eb44-4313-9ccd-9448d1d585e9.png)
 
 
 
@@ -61,7 +61,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 • Cifrar
 • Descifrar
 • Dato de Entrada 
-![image](![image](https://user-images.githubusercontent.com/55814963/143780254-62ad3419-4a64-45aa-b5e4-e3ebe8519914.png)
+![image](https://user-images.githubusercontent.com/55814963/143780254-62ad3419-4a64-45aa-b5e4-e3ebe8519914.png)
 
 
 ###  MUCHAS GRACIAS...!
