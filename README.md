@@ -27,6 +27,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 ![image](https://user-images.githubusercontent.com/55814963/122269801-3b9bf600-cea3-11eb-9ab3-f6b60974979e.png)
 
 
+
 ### HERRAMIENTAS DE TRABAJO
 1. Python
 2. Gitpod
@@ -37,11 +38,8 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 
 
-
 ![image](![image](https://user-images.githubusercontent.com/55814963/143780387-9a70b986-bdb2-40c5-ba06-1c602550c549.png)
-![image](![image](https://user-images.githubusercontent.com/55814963/143780395-0992eb38-f8cc-445a-bda7-b8edeb81521d.png)
-![image](![image](https://user-images.githubusercontent.com/55814963/143780401-08f7b6e9-5d6b-4840-8a7a-f583eafad447.png)
-![image](![image](https://user-images.githubusercontent.com/55814963/143780415-75afe334-2ea1-4a19-ade5-a6d99cd51490.png)
+
 
 
 ### DESARROLLO
