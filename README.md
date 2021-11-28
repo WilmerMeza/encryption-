@@ -1,18 +1,18 @@
-## Encryption
+### Encryption
 Trabajando con el cifrado  de caracteres vigenere 
 
-## TRABAJO 04 - Aplicación Criptográfica
-### TEMA: Vigenere
+### TRABAJO 04 - Aplicación Criptográfica
+#### TEMA: Vigenere
 
-## OBJETIVO:
+### OBJETIVO:
 1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
-## INTEGRANTE:
+### INTEGRANTE:
 - Wilmer Meza
 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
-## AGRADECIMIENTO
+### AGRADECIMIENTO
 
 #### Prof. Giancarlo Valencia 
 
@@ -27,7 +27,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 ![image](https://user-images.githubusercontent.com/55814963/122269801-3b9bf600-cea3-11eb-9ab3-f6b60974979e.png)
 
 
-## HERRAMIENTAS DE TRABAJO
+### HERRAMIENTAS DE TRABAJO
 1. Python
 2. Gitpod
 3. GitHub
@@ -42,7 +42,7 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 [image](![image](https://user-images.githubusercontent.com/55814963/143780415-75afe334-2ea1-4a19-ade5-a6d99cd51490.png)
 
 
-## DESARROLLO
+### DESARROLLO
 -  cifrado basado en diferentes series de caracteres o letras del cifrado César formando estos caracteres una tabla, llamada tabla de Vigenère, que se usa como clave. 
 
 - Se a realizado este trabajo para profundizar más la investigación, eligiendo como herramienta de codificaciòn (Pyhton), buscando el resultado del dato ingresado.
