@@ -4,7 +4,7 @@ Trabajando con el cifrado  de caracteres vigenere
 ## TRABAJO 04 - Aplicación Criptográfica
 ### TEMA: Vigenere
 
-# OBJETIVO:
+## OBJETIVO:
 1. Identificar las diferentes series de caracteres o letra mediante una tabla que cuenta con 26 veces en filas diferentes.
 
 ## INTEGRANTE:
@@ -34,6 +34,8 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 4. Slide (Presentaciòn)
 
 
+
+
 ![image](![image](https://user-images.githubusercontent.com/55814963/143780387-9a70b986-bdb2-40c5-ba06-1c602550c549.png)
 [image](![image](https://user-images.githubusercontent.com/55814963/143780395-0992eb38-f8cc-445a-bda7-b8edeb81521d.png)
 [image](![image](https://user-images.githubusercontent.com/55814963/143780401-08f7b6e9-5d6b-4840-8a7a-f583eafad447.png)
@@ -45,8 +47,10 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 - Se a realizado este trabajo para profundizar más la investigación, eligiendo como herramienta de codificaciòn (Pyhton), buscando el resultado del dato ingresado.
 
-![image](https://user-images.githubusercontent.com/55814963/122270730-3db28480-cea4-11eb-91ac-666cf8362cf9.png)
-![image](https://user-images.githubusercontent.com/55814963/122270752-42773880-cea4-11eb-9b89-476caec13a06.png)
+
+
+![image](![image](https://user-images.githubusercontent.com/55814963/143780498-145a7657-eb44-4313-9ccd-9448d1d585e9.png)
+
 
 
 ##  OBJETIVO FINAL
