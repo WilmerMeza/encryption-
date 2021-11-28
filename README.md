@@ -71,6 +71,6 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 ###  MUCHAS GRACIAS...!
 
-![image](![image](https://user-images.githubusercontent.com/55814963/143780286-5687e90f-8acc-4f85-8de5-225715db9189.png)
+![image](https://user-images.githubusercontent.com/55814963/143780286-5687e90f-8acc-4f85-8de5-225715db9189.png)
 
 
